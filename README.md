@@ -3,7 +3,7 @@ Queries from the [SQLZoo Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)
 ___
 
 - [x] 0 - SELECT basics
-- [ ] 1 - SELECT name
+- [x] 1 - SELECT name
 - [ ] 2 - SELECT from world
 - [ ] 3 - SELECT from Nobel
 - [ ] 4 - SELECT within SELECT
