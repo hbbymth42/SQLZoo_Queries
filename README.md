@@ -4,7 +4,7 @@ ___
 
 - [x] 0 - SELECT basics
 - [x] 1 - SELECT name
-- [ ] 2 - SELECT from world
+- [x] 2 - SELECT from world
 - [ ] 3 - SELECT from Nobel
 - [ ] 4 - SELECT within SELECT
 - [ ] 5 - SUM and COUNT
