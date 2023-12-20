@@ -5,7 +5,7 @@ ___
 - [x] 0 - SELECT basics
 - [x] 1 - SELECT name
 - [x] 2 - SELECT from world
-- [ ] 3 - SELECT from Nobel
+- [x] 3 - SELECT from Nobel
 - [ ] 4 - SELECT within SELECT
 - [ ] 5 - SUM and COUNT
 - [ ] 6 - JOIN
