@@ -6,12 +6,12 @@ ___
 - [x] 1 - SELECT name
 - [x] 2 - SELECT from world
 - [x] 3 - SELECT from Nobel
-- [ ] 4 - SELECT within SELECT
-- [ ] 5 - SUM and COUNT
-- [ ] 6 - JOIN
-- [ ] 7 - More JOIN operations
-- [ ] 8 - Using Null
-- [ ] 8+ - Numeric Examples
+- [x] 4 - SELECT within SELECT
+- [x] 5 - SUM and COUNT
+- [x] 6 - JOIN
+- [x] 7 - More JOIN operations
+- [x] 8 - Using Null
+- [x] 8+ - Numeric Examples
 - [ ] 9- - Window function
 - [ ] 9+ - COVID 19
 - [ ] 9 - Self join
