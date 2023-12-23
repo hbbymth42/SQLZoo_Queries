@@ -12,6 +12,6 @@ ___
 - [x] 7 - More JOIN operations
 - [x] 8 - Using Null
 - [x] 8+ - Numeric Examples
-- [ ] 9- - Window function
+- [x] 9- - Window function
 - [ ] 9+ - COVID 19
 - [ ] 9 - Self join
