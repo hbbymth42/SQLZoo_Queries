@@ -14,4 +14,4 @@ ___
 - [x] 8+ - Numeric Examples
 - [x] 9- - Window function
 - [x] 9+ - COVID 19
-- [ ] 9 - Self join
+- [x] 9 - Self join
