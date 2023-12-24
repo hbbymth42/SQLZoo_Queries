@@ -13,5 +13,5 @@ ___
 - [x] 8 - Using Null
 - [x] 8+ - Numeric Examples
 - [x] 9- - Window function
-- [ ] 9+ - COVID 19
+- [x] 9+ - COVID 19
 - [ ] 9 - Self join
